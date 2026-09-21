@@ -1,0 +1,9 @@
+{
+  "name": "profile-logo-sources",
+  "private": true,
+  "description": "Sources des logos, utilisées uniquement par extract_logos.py",
+  "devDependencies": {
+    "simple-icons": "^16.0.0",
+    "devicon": "^2.17.0"
+  }
+}
